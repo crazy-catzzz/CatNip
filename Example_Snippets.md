@@ -1,19 +1,19 @@
 # Variable declaration
 
 ```
-int int_var = 0;
+type var_name = 0;
 ```
 
 # Variable declaration (array)
 
 ```
-int[] arr = {};
+type[] arr_name = {};
 ```
 
 # Function declaration
 
 ```
-fun f(/* args */) : int {
+fun f(/* args */) : return_type {
   // ...
   return x;
 }
